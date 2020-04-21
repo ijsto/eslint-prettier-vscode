@@ -1,0 +1,39 @@
+{
+  "name": "inextjs",
+  "version": "1.2.0",
+  "description": "Next.js boilerplate/starter project by iJS",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ijsto/inextjs.git"
+  },
+  "homepage": "https://ijs.to",
+  "bugs": {
+    "url": "https://github.com/ijsto/inextjs/issues",
+    "email": "code@ijs.to"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "next": "^9.3.5",
+    "react": "^16.13.1",
+    "react-dom": "^16.11.0",
+    "styled-components": "^5.1.0"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "nextjs",
+    "styled components",
+    "react",
+    "boilerplate",
+    "starter project"
+  ],
+  "author": "Scott Agirs Neminskis - iJS.to",
+  "license": "ISC"
+}
