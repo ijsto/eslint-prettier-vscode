@@ -1,15 +1,15 @@
 {
-  "name": "inextjs",
+  "name": "ieslint-nextjs",
   "version": "1.2.0",
-  "description": "Next.js boilerplate/starter project by iJS",
+  "description": "Next.js with ESLint starter by iJS",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ijsto/inextjs.git"
+    "url": "https://github.com/ijsto/ieslint-nextjs.git"
   },
   "homepage": "https://ijs.to",
   "bugs": {
-    "url": "https://github.com/ijsto/inextjs/issues",
+    "url": "https://github.com/ijsto/ieslint-nextjs/issues",
     "email": "code@ijs.to"
   },
   "scripts": {
@@ -29,7 +29,7 @@
   "devDependencies": {},
   "keywords": [
     "nextjs",
-    "styled components",
+    "eslint",
     "react",
     "boilerplate",
     "starter project"
