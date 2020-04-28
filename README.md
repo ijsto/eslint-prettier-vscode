@@ -34,7 +34,7 @@ This is a simple starter project that demonstrates how to use Next.js with custo
 
 ```
 
-git clone git@github.com:ijsto/inextjs.git
+git clone https://github.com/ijsto/ieslint-nextjs.git
 
 ```
 

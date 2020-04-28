@@ -4,9 +4,9 @@ export const About = () => {
       <h1>About Page</h1>
 
       <p>
-        Interested in learning more about what is Next.js?{" "}
+        Interested in learning more about what is Next.js?{' '}
         <a
-          href="https://ijs.to/p/what-is-next.js" 
+          href="https://ijs.to/p/what-is-next.js"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -14,23 +14,19 @@ export const About = () => {
         </a>
       </p>
       <p>
-        This simple app is intended as a base for any other{" "}
-        <a
-          href="https://ijs.to" 
-          target="_blank"
-          rel="noopener noreferrer"
-        >
+        This simple app is intended as a base for any other{' '}
+        <a href="https://ijs.to" target="_blank" rel="noopener noreferrer">
           iJS.to
-        </a>{" "}
+        </a>{' '}
         or your own starter projects to eliminate the boilerplate.
       </p>
       <h2>Get Started in (3 minutes)</h2>
       <ul>
         <li>
-          1. Clone the the{" "}
+          1. Clone the the{' '}
           <a href="https://github.com/ijsto/inextjs">starter repo</a>
           <p>
-            <code>git clone git@github.com:ijsto/inextjs.git</code>
+            <code>git clone https://github.com/ijsto/ieslint-nextjs.git</code>
           </p>
         </li>
         <li>
@@ -52,7 +48,7 @@ export const About = () => {
           </p>
         </li>
         <li>
-          Starter project is live at:{" "}
+          Starter project is live at:{' '}
           <a href="http://localhost:3000">http://localhost:3000</a>
         </li>
       </ul>
