@@ -5,11 +5,11 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ijsto/ieslint-nextjs.git"
+    "url": "https://github.com/ijsto/eslint-prettier-vscode.git"
   },
   "homepage": "https://ijs.to",
   "bugs": {
-    "url": "https://github.com/ijsto/ieslint-nextjs/issues",
+    "url": "https://github.com/ijsto/eslint-prettier-vscode/issues",
     "email": "code@ijs.to"
   },
   "scripts": {
