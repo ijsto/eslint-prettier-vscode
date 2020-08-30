@@ -24,8 +24,6 @@ You can see a live demo of this repo at [inextjs.now.sh](https://inextjs.now.sh/
 
 Next.js is a framework that makes it easy to create Universal web apps in React.
 
-[https://ijs.to/p/what-is-next.js](Read more about Next.js in this post)
-
 This is a simple starter project that demonstrates how to use Next.js with custom layout and some modular and global styles via `<style jsx />` and `<style global jsx />` tags.
 
 ## Get Started (3 minutes)
@@ -61,3 +59,6 @@ Starter project is live at: http://localhost:3000
 ## Contributing
 
 Have an idea how to make this starter better/more useful? Please submit a PR.
+
+
+[iJS.to](https://ijs.to)
