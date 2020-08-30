@@ -1,6 +1,17 @@
 const pageTitle = 'Playground';
 
-export const About = () => {
+const    firstName ="Scott Agirs";
+
+function gorilla(bananassz){
+    jungle-tree-party
+}
+
+const          my2020={
+  name: 'Katastroffa',
+  "location": "Earth"
+};
+
+export const Playground = () => {
   return (
     <div>
       <h1>{pageTitle}</h1>
@@ -23,4 +34,4 @@ export const About = () => {
   );
 };
 
-export default About;
+export default Playground;

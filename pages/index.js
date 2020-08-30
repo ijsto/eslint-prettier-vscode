@@ -1,16 +1,16 @@
 export default () => (
   <>
     <div>
-      <h1>Next.js starter</h1>
-      <div style={{marginBottom: 64}}>Have fun building - dynamic layout is added!</div>
+      <h1 style={{marginTop:64}}>Next.js starter</h1>
+      <div style={{marginBottom: 64}}>ESLint + Prettier setup for VS Code</div>
 
       <a href="https://ijs.to/" target="_blank">
-        <p>Learn code on iJS.to</p>
+        <p>Learn JavaScript</p>
       </a>
       <ul>
         <li>
           <a href="https://ijs.to/courses/nextjs" target="_blank">
-            NextJS
+            Next.js
           </a>
         </li>
         <li>
@@ -32,16 +32,7 @@ export default () => (
     </div>
 
     <style jsx>{`
-      h1 {
-        margin: 1em auto 0.25em;
-      }
-      h2 {
-        margin: 0 auto 0.75em auto;
-        font-size: 2.5em;
-      }
-      h3 {
-        margin: 1em auto 0;
-      }
+      
 
       a {
         margin: 1em auto;
