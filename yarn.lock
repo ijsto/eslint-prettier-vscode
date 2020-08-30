@@ -1062,10 +1062,10 @@
   resolved "https://registry.yarnpkg.com/@emotion/unitless/-/unitless-0.7.5.tgz#77211291c1900a700b8a78cfafda3160d76949ed"
   integrity sha512-OWORNpfjMsSSUBVrRBVGECkhWcULOAJz9ZW8uK9qgxD+87M7jHRcvh/A96XXNhXTLmKcoYSQtBEX7lHMO7YRwg==
 
-"@ijsto/eslint-config@2.1.3":
-  version "2.1.3"
-  resolved "https://registry.npmjs.org/@ijsto/eslint-config/-/eslint-config-2.1.3.tgz#fe6f27cf3bcc0fd8890b41744d7e333c0ab7b9d0"
-  integrity sha512-BH9ezqQLRSpH/CkNG6UqA13KDIujaumXCcG352cbQW0MCHiF4xDVwiCjXcosFtloPOWASRYSwjUJmBySH4tCQw==
+"@ijsto/eslint-config@^2.1.5":
+  version "2.1.5"
+  resolved "https://registry.yarnpkg.com/@ijsto/eslint-config/-/eslint-config-2.1.5.tgz#dd5e299e204d18c11fe090678beb69ac86e8ed0d"
+  integrity sha512-jED+5xXuz7RYAICwrIwBwZdbnJF8syXfjdENDNyDMwNF6ufCWFAFteqpI3xxS+hjkSXUdw/vyaJ2R9FAqZbUIQ==
 
 "@types/color-name@^1.1.1":
   version "1.1.1"
