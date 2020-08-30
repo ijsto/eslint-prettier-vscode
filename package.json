@@ -1,5 +1,5 @@
 {
-  "name": "ieslint-nextjs",
+  "name": "eslint-prettier-vscode",
   "version": "1.2.0",
   "description": "Next.js with ESLint starter by iJS",
   "main": "index.js",
