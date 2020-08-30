@@ -16,9 +16,6 @@ export const Header = () => {
         <Link href="/">
           <a className="menu-item">Home</a>
         </Link>
-        <Link href="/books">
-          <a className="menu-item">Books</a>
-        </Link>
         <Link href="/about">
           <a className="menu-item">About</a>
         </Link>
@@ -59,7 +56,7 @@ export const Header = () => {
           background-color: #b838f0;
           font-size: 1.25rem;
           letter-spacing: 0px;
-          padding: 0.76rem 0 0 0.75rem;
+          padding: 1.75rem 0 0 0.75rem;
           position: absolute;
           top: 16px;
         }
@@ -75,9 +72,10 @@ export const Header = () => {
           text-transform: lowercase;
         }
         .js {
-          font-family: 'Source Sans Pro', sans-serif;
+          font-family: 'Spartan', sans-serif;
           color: white;
-          font-size: 2rem;
+          font-size: 1.5rem;
+          font-weight: bold;
           margin-right: 4px;
         }
         .js:hover {
