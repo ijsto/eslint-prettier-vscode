@@ -1,4 +1,4 @@
-import Link from "next/link";
+import Link from 'next/link';
 
 export const Header = () => {
   return (
@@ -50,13 +50,13 @@ export const Header = () => {
         }
         .menu-item:hover {
           color: #1c2b6d;
-          text-shadow: 1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 10px rgba(119, 102, 119, 0.25),
-            1px 1px 0 orange;
+          text-shadow: 1px -1px 0 #fff, 1px -1px 0 #fff,
+            -1px 1px 10px rgba(119, 102, 119, 0.25), 1px 1px 0 orange;
           font-weight: 800;
         }
-        
+
         .logo {
-          background-color: #B838F0;
+          background-color: #b838f0;
           font-size: 1.25rem;
           letter-spacing: 0px;
           padding: 0.76rem 0 0 0.75rem;
@@ -66,8 +66,8 @@ export const Header = () => {
         .logo:hover {
           background: #333644;
         }
-        .logo:hover .js{
-          color: #B838F0;
+        .logo:hover .js {
+          color: #b838f0;
         }
         .i {
           color: #f7f7f7;
@@ -75,7 +75,7 @@ export const Header = () => {
           text-transform: lowercase;
         }
         .js {
-          font-family: "Source Sans Pro", sans-serif;
+          font-family: 'Source Sans Pro', sans-serif;
           color: white;
           font-size: 2rem;
           margin-right: 4px;
@@ -83,7 +83,6 @@ export const Header = () => {
         .js:hover {
           color: #333644;
         }
-        
       `}</style>
     </header>
   );
